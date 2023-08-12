@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "user_name":"Sam505",
+        "password":"$2a$12$UhpIPTes4zeaYpdt3kRh2Os7JdbKbGfKPT1IFap3RGfZz8.0MkBWO"
+    },
+    {
+        "id":2,
+        "user_name":"James707",
+        "password":"$2a$12$sC15QPx5MxTPo2ZtOy64FO2oyo2vaHb/MBLUfSMCuubd7xAyfqT5K"
+    },
+    {
+        "id":3,
+        "user_name":"Bob909",
+        "password":"$2a$12$M47ZD0f6VP/ecjchf1FgG.5QKVKqoNUoDJ8YxCGkFG5pi1dBZRfBy"
+    }
+]
