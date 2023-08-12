@@ -142,7 +142,7 @@ async function Delete_FeedBack(req,res) {
 
         await FeedBacks.write(data)
 
-        res.json({message:"Successfully deleted",data:data})
+        res.json({message:"Successfully deleted",data:feedback})
       } catch (error) {
         res.status(500).json({message:"INTERNAL SERVER ERROR"})
       }

@@ -100,7 +100,7 @@ async function Delete_Service(req,res) {
 
         await Services.write(data)
 
-        res.json({message:"Successfully deleted",data:data})
+        res.json({message:"Successfully deleted",data:service})
       } catch (error) {
         res.status(500).json({message:"INTERNAL SERVER ERROR"})
       }
